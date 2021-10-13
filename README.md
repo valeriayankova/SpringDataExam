@@ -25,4 +25,4 @@
     the help of the ModelMapper library;
   ```
 * ```
-  Exporting the best players, using a JPQL query; </div>
+  Exporting the best players, using a JPQL query; 
